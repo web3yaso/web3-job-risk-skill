@@ -89,7 +89,9 @@ web3-job-risk/
 ├── SKILL.md                    # Main skill file · 主文件（流程 + 输出模板）
 ├── README.md                   # This file · 本文件
 └── references/
-    └── knowledge-base.md       # Legal knowledge base · 法律知识库（按需读取）
+    ├── risk-criteria.md        # Risk judgment criteria · 风险判断标准（评估时按需读取）
+    ├── scam-patterns.md        # Scam pattern library · 诈骗手法识别库（诈骗过滤时读取）
+    └── legal-cases.md          # Legal cases & practice · 法律案例与实务（评估法律风险时读取）
 ```
 
 ---
